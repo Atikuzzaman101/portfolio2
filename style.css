@@ -1,6 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     margin: 0;
+    
 }
 
 
@@ -64,4 +65,7 @@ h2{
 .experiance-iteam{
     padding: 10px;
     text-align: justify;
+}
+#background-color{
+    background-color: antiquewhite;
 }
